@@ -1,1 +1,2 @@
-*.Rmd linguist-language=R
+business_case_analysis.Rmd linguist-language=R
+business_case_analysis.md linguist-language=R
